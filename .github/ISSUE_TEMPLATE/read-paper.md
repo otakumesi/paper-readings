@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## Paper name
+## Paper URL
 
 ## What is it like?（どんなもの？）
 
